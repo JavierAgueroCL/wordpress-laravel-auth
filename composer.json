@@ -35,5 +35,7 @@
                 "MrShan0\\WordpressAuth\\WordpressAuthServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
